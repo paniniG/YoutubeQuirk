@@ -1,10 +1,6 @@
 #This is the link to the problem statement and solution: https://www.youtube.com/watch?v=C5-I0bAuEUE&ab_channel=minutephysics
 #I wanted to code this puzzle and verify that winning probability approximately equals 31%
 
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
 import random as rn
 def list_of_succesful_people(number_of_people):
     succ=[]
